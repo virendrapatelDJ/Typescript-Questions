@@ -3,8 +3,8 @@
  * 2. create it child class of array.
  * 3. add a method push which will accept only numbers and
  * use push method of Array class to push the data.
- * 4. add a method to calculate total
- * 5. add a method to calculate percentage
+ * 4. add a method to calculate total :  without calculation logic
+ * 5. add a method to calculate percentage : without calculation logic
  */
 
 class Marks {}
